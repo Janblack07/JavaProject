@@ -33,7 +33,7 @@ public class Cliente extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        Estudiantes.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/4733349_basic_group_ui_icon.png"))); // NOI18N
+        Estudiantes.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/imagen/4733349_basic_group_ui_icon.png"))); // NOI18N
         Estudiantes.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 EstudiantesActionPerformed(evt);
