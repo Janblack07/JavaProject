@@ -2,16 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/E:/Documento/Java/Cliente_Servidor_RMI/src/RMI/RMI.java</file>
-            <file>file:/E:/Documento/Java/Cliente_Servidor_RMI/src/Estudiante/Estudiantes.java</file>
-            <file>file:/E:/Documento/Java/Cliente_Servidor_RMI/src/cliente_servidor_rmi/Cliente_Servidor_RMI.java</file>
-            <file>file:/E:/Documento/Java/Cliente_Servidor_RMI/src/Conexion/conexion.java</file>
-            <file>file:/E:/Documento/Java/Cliente_Servidor_RMI/src/Estudiante/Estudiante1.java</file>
-            <file>file:/E:/Documento/Java/Cliente_Servidor_RMI/src/cliente_servidor_rmi/Cliente.java</file>
-            <file>file:/E:/Documento/Java/Cliente_Servidor_RMI/src/Estudiante/estudiante.java</file>
-            <file>file:/E:/Documento/Java/Cliente_Servidor_RMI/src/Servidor/Servidor.java</file>
-            <file>file:/E:/Documento/Java/Cliente_Servidor_RMI/src/Servidor/ServidorRMI.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
